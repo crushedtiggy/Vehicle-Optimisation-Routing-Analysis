@@ -4,5 +4,3 @@ pandas
 openpyxl
 openrouteservice
 folium
-pydata_google_auth
-pandas_gbq
