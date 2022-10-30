@@ -1,8 +1,8 @@
 mljar-mercury
 pandas
+openpyxl
 openrouteservice
 folium
-openpyxl
 random_shops_extract.xlsx
 df_transaction.csv
 Master_Products.xlsx
