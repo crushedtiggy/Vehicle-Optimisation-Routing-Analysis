@@ -4,5 +4,5 @@ pandas
 openpyxl
 openrouteservice
 folium
-"~/blob/main/random_shops_extract.xlsx"
-"~/blob/main/Master_Products.xlsx"
+"random_shops_extract.xlsx"
+"Master_Products.xlsx"
