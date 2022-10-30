@@ -4,5 +4,5 @@ pandas
 openpyxl
 openrouteservice
 folium
-"random_shops_extract.xlsx"
-"Master_Products.xlsx"
+https://github.com/crushedtiggy/Vehicle-Optimisation-Routing-Analysis/blob/main/random_shops_extract.xlsx
+https://github.com/crushedtiggy/Vehicle-Optimisation-Routing-Analysis/blob/main/Master_Products.xlsx
