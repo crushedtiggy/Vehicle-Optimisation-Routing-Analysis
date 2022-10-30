@@ -1,1 +1,4 @@
 mljar-mercury
+pandas
+openrouteservice
+folium
