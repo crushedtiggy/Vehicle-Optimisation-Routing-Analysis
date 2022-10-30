@@ -1,7 +1,8 @@
 mljar-mercury
+pyexcel
 pandas
 openpyxl
 openrouteservice
 folium
-pip install "https://github.com/crushedtiggy/Vehicle-Optimisation-Routing-Analysis/blob/main/random_shops_extract.xlsx"
-pip install "https://github.com/crushedtiggy/Vehicle-Optimisation-Routing-Analysis/blob/main/Master_Products.xlsx"
+pip install "git+https://github.com/crushedtiggy/Vehicle-Optimisation-Routing-Analysis/blob/main/random_shops_extract.xlsx"
+pip install "git+https://github.com/crushedtiggy/Vehicle-Optimisation-Routing-Analysis/blob/main/Master_Products.xlsx"
